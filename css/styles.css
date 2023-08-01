@@ -2,6 +2,10 @@
 	background-color: #fff;
 }
 
+.sitenav-list	{
+	list-style: none;
+}
+
 .sitenav-link	{
 	font-size: 13px;
 	line-height: 15px;
@@ -61,6 +65,10 @@ height: 510px;
 	letter-spacing: 0.5px;
 }
 
+.featuresul-list	{
+	list-style: none;
+}
+
 .feature {
 width: 340px;
 }
@@ -99,7 +107,7 @@ width: 340px;
 
 .promo-text	{
 	font-size: 16px;
-	line-height: 1.5px;
+	line-height: 1.5;
 }
 
 .promo-hightlight	{
@@ -116,7 +124,23 @@ width: 340px;
 	background-color: #f8f8f8;
 }
 
+.site-footer	ul {
+	list-style: none;
+}
+
 .site-footer-divider	{
 	height: 2px;
 	background-color: rgba(37, 36, 32, 0.5)
+}
+
+.site-footer-links	{
+	width: 224px;
+}
+
+.site-footer-links	a {
+	font-size: 16px;
+	line-height: 19px;
+text-decoration: none;
+color: #252420;
+
 }
