@@ -142,5 +142,8 @@ width: 340px;
 	line-height: 19px;
 text-decoration: none;
 color: #252420;
+}
 
+.ite-footer-logo	{
+	list-style: none;
 }
