@@ -149,6 +149,7 @@ transition: opacity 0.4s ease;
 	height: 3px;
 	border: none;
 	margin: 0;
+	margin-top: 210px;
 	margin-bottom: 40px;
 	background-color: #ff7500;
 }
@@ -250,9 +251,6 @@ align-items: center;
 	background-color: #252420;
 	color: #fff;
 }
-
-
-
 
 .promo-content	{
 	width: 440px;
